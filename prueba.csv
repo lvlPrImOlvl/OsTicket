@@ -1,0 +1,6 @@
+ASN,IP_ORIGEN,FECHA,NUMERO_EVENTO,DISPOSITIVO,IDENTIFICADOR,ALERTA,NOMBRE_ASN
+2.1024,192.168.100.6,06-03-2017,5,dip_cert,disp_cert05,ddos,prueba2.1024	
+2.1025,192.169.100.7,07-03-2017,9,dip_unam,disp_unam09,sqlinjection,prueba3.1025
+2.1024,192.168.100.255,06-03-2017,5,dip_cert,disp_cert05,ddos,prueba2.1024	
+2.1024,192.168.100.60,06-03-2017,5,dip_cert,disp_cert05,ddos,prueba2.1024	
+2.1025,192.169.100.79,07-03-2017,9,dip_unam,disp_unam09,sqlinjection,prueba3.1025
